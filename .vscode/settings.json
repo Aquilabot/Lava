@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": ["./antiscam.py"],
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylamaEnabled": false,
+    "python.linting.banditEnabled": true,
+    "python.analysis.extraPaths": [
+        "./antiscam.py"
+    ]
+}
